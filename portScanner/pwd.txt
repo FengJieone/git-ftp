@@ -1,0 +1,9 @@
+ftp:ftp
+root:root
+root:toor
+admin:admin
+guest:guset
+admin:123456
+charlie:brown
+donald:duck
+albert:einstein
